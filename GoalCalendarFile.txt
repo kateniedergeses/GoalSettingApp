@@ -1,0 +1,22 @@
+	PERSONALIZED CALENDAR
+GOAL TYPE: STRESS MANAGEMENT GOAL
+TIMEFRAME: 90
+STARTING MINUTES: 0
+END MINUTES: 18
+
+                   SUN                         MON                         TUES                        WED                        THURS                        FRI                         SAT             
+WEEK  1   Meditation       :    1     Breathing Ex.    :    1     Journaling       :    1     Gratefulness Ex. :    1     Chess            :    1     Beach            :    1     Meditation       :    1     
+WEEK  2   Breathing Ex.    :    2     Journaling       :    2     Gratefulness Ex. :    2     Chess            :    2     Beach            :    2     Meditation       :    3     Breathing Ex.    :    3     
+WEEK  3   Journaling       :    3     Gratefulness Ex. :    3     Chess            :    3     Beach            :    4     Meditation       :    4     Breathing Ex.    :    4     Journaling       :    4     
+WEEK  4   Gratefulness Ex. :    4     Chess            :    5     Beach            :    5     Meditation       :    5     Breathing Ex.    :    5     Journaling       :    5     Gratefulness Ex. :    6     
+WEEK  5   Chess            :    6     Beach            :    6     Meditation       :    6     Breathing Ex.    :    6     Journaling       :    7     Gratefulness Ex. :    7     Chess            :    7     
+WEEK  6   Beach            :    7     Meditation       :    7     Breathing Ex.    :    8     Journaling       :    8     Gratefulness Ex. :    8     Chess            :    8     Beach            :    8     
+WEEK  7   Meditation       :    9     Breathing Ex.    :    9     Journaling       :    9     Gratefulness Ex. :    9     Chess            :    9     Beach            :   10     Meditation       :   10     
+WEEK  8   Breathing Ex.    :   10     Journaling       :   10     Gratefulness Ex. :   10     Chess            :   11     Beach            :   11     Meditation       :   11     Breathing Ex.    :   11     
+WEEK  9   Journaling       :   11     Gratefulness Ex. :   12     Chess            :   12     Beach            :   12     Meditation       :   12     Breathing Ex.    :   12     Journaling       :   13     
+WEEK 10   Gratefulness Ex. :   13     Chess            :   13     Beach            :   13     Meditation       :   13     Breathing Ex.    :   14     Journaling       :   14     Gratefulness Ex. :   14     
+WEEK 11   Chess            :   14     Beach            :   14     Meditation       :   15     Breathing Ex.    :   15     Journaling       :   15     Gratefulness Ex. :   15     Chess            :   15     
+WEEK 12   Beach            :   16     Meditation       :   16     Breathing Ex.    :   16     Journaling       :   16     Gratefulness Ex. :   16     Chess            :   17     Beach            :   17     
+WEEK 13   Meditation       :   17     Breathing Ex.    :   17     Journaling       :   17     Gratefulness Ex. :   18     Chess            :   18     Beach            :   18     
+
+Total number of minutes spent in goal activity: 820.4
